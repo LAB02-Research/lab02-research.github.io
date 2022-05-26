@@ -1,1 +1,1 @@
-GitHub pages repo.
+LAB02 Research GitHub page.
