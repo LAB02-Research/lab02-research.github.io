@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+LAB02 Research is a small club of tech enthusiasts. We've built several tools over the years to improve existing platforms (like Home Assistant) or automate the little things through various hardware platforms like ESP*, Arduino and RPi.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Lately we started setting up ways to share our work with the rest of the community. This take a lot of time and effort, as 'works on our machines' isn't good enough, and UX has to be taken into account.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you enjoy our work, consider sponsoring so we can invest in more hardware for our projects - which in turn get shared back :)
