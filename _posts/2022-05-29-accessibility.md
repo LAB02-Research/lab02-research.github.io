@@ -7,7 +7,7 @@ tags: [accessibility,hass.agent,home assistant,hass,domotica,automation,csharp]
 
 When you're a single developer working on a project in your spare time, next to a full-time job, you're going to have to make choices on where to invest your efforts. You can't work out every feature at once, and some bugs get ignored.
 
-Earlier this month, GitHub user [@blindndangerous](https://github.com/blindndangerous) pointed me to the fact that HASS.Agent [doesn't play well with screenreaders](https://github.com/LAB02-Research/HASS.Agent/issues/65) *at all*. And he was of course absolutely right; none of the components were properly named and labeled. And even though it wouldn't really lead to new fancy features, this would be well worth focussing on - so I more or less dropped all other tickets.
+Earlier this month, GitHub user [@blindndangerous](https://github.com/blindndangerous) pointed me to the fact that HASS.Agent [doesn't play well with screenreaders](https://github.com/LAB02-Research/HASS.Agent/issues/65) *at all*. And he was of course absolutely right; none of the components were properly named and labeled (don't mistake this for the object's reference name like `LblCommands`, that's just internal). And even though it wouldn't really lead to new fancy features, this would be well worth focussing on - so I more or less dropped all other tickets.
 
 Since I didn't have any prior experience, I started reading up on some documentation. Microsoft's actually been [doing pretty well](https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace/) in this area thankfully. Some links that helped me:
 
