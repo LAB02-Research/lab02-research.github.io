@@ -2,6 +2,7 @@
 layout: post
 title: First Post
 subtitle: Mandatory 'first post' post.
+thumbnail-img: /assets/img/rockon_128.png
 tags: [first]
 ---
 
