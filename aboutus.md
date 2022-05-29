@@ -13,5 +13,3 @@ Lately we started setting up ways to share our work with the rest of the communi
 If you enjoy our work, consider sponsoring so we can invest in more hardware for our projects - which in turn get shared back :)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lab02research)
-
-<iframe src="https://github.com/sponsors/LAB02-Admin/button" title="Sponsor LAB02-Admin" height="35" width="116" style="border: 0;"></iframe>
