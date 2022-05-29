@@ -3,6 +3,8 @@ layout: page
 title: HASS.Agent
 cover-img: /assets/img/hassagent_logo_banner.png
 subtitle: Home Assistant companion app for Windows
+gh-repo: LAB02-Research/HASS.Agent
+gh-badge: [star, watch, fork, follow]
 tags: [Home Assistant,HASS,HASS.Agent,companion,app,domotica,automation,Windows]
 ---
 
