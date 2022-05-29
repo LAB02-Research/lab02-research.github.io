@@ -1,8 +1,7 @@
 ---
 layout: page
 title: HASS.Agent
-cover-img: https://raw.githubusercontent.com/LAB02-Research/HASS.Agent/main/images/hassagent_logo_banner.png
-thumbnail-img: https://raw.githubusercontent.com/LAB02-Research/HASS.Agent/main/images/logo_128.png
+cover-img: /assets/img/hassagent_logo_banner.png
 subtitle: Home Assistant companion app for Windows
 tags: [Home Assistant,HASS,HASS.Agent,companion,app,domotica,automation,Windows]
 ---
