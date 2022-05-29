@@ -8,7 +8,10 @@ author: LAB02 Research
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  HASS.Agent: "hassagent"
+  HASS.Agent:
+    - About: "hassagent"
+    - Documentation: "https://hassagent.readthedocs.io/en/latest/"
+    - Repository: "https://github.com/LAB02-Research/HASS.Agent"
   About Us: "aboutus"
   Repository: "https://github.com/LAB02-Research/"
 
