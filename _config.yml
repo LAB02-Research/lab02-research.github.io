@@ -10,6 +10,7 @@ author: LAB02 Research
 navbar-links:
   HASS.Agent:
     - About: "hassagent"
+    - Download: "https://github.com/LAB02-Research/HASS.Agent/releases/latest/"
     - Docs: "https://hassagent.readthedocs.io/en/latest/"
     - Source: "https://github.com/LAB02-Research/HASS.Agent"
   About Us: "aboutus"
