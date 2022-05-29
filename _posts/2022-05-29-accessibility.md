@@ -2,6 +2,7 @@
 layout: post
 title: Accessibility
 subtitle: Making HASS.Agent screenreader friendly.
+thumbnail-img: /assets/img/accessibility-128px.png
 tags: [accessibility,hass.agent,home assistant,hass,domotica,automation,csharp]
 ---
 
