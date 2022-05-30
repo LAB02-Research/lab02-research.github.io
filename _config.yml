@@ -14,7 +14,7 @@ navbar-links:
     - Docs: "https://hassagent.readthedocs.io/en/latest/"
     - Source: "https://github.com/LAB02-Research/HASS.Agent"
   About Us: "aboutus"
-  Repository: "https://github.com/LAB02-Research/"
+  GitHub: "https://github.com/LAB02-Research/"
 
 # --- Logo --- #
 
