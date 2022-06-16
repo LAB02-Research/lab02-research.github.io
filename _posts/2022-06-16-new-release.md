@@ -2,7 +2,7 @@
 layout: post
 title: New release - 2022.12.0
 subtitle: MediaPlayer integration, webview component and screenreader support.
-thumbnail-img: /assets/img/new_128px.png
+thumbnail-img: /assets/img/new_128.png
 tags: [new,release,2022.12.0,hass.agent,home assistant,hass,domotica,automation,csharp]
 ---
 
