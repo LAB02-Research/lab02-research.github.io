@@ -22,7 +22,7 @@ The second webview implementation is that you can now configure the tray icon's 
 
 Apart from the new features, the quickactions received some love: the creation page has its layout refreshed, and you can now directly bind your own commands to a quickaction. This means that either through the quickactions popup, or a hotkey, you can trigger any command you've configured. Because it doesn't go by Home Assistant, it's really fast :) 
 
-This release also adds initial support for screenreaders (thanks for pointing it out to me @blindndangerous). It was a lot of work (which is why this release took longer than usual), but I'm glad the basics are done. It's not completely covered, so let me know what can be improved. For those interested, I wrote a short blogpost about it: https://lab02-research.org/2022-05-29-accessibility.
+This release also adds initial support for screenreaders (thanks for pointing it out to me @blindndangerous). It was a lot of work (which is why this release took longer than usual), but I'm glad the basics are done. It's not completely covered, so let me know what can be improved. For those interested, I wrote a short blogpost about it: [https://lab02-research.org/2022-05-29-accessibility](https://lab02-research.org/2022-05-29-accessibility).
 
 Not all items on the 'planned for next release' list are done, but it's been nearly two months since the last release so I thought I'd roll this one out for everyone to use. The next release will be bugfixes, enhancements and new commands/sensors (so no large new features). 
 
@@ -35,7 +35,7 @@ A 'heads up': because of the summer months, I'll be either busy at work filling 
 * Add media_player capabilities to HASS.Agent [#31] (thanks @DeftNerd)
   * This requires the new MediaPlayer integration, available through HACS
   * For configuration info, check the new docs:
-    * https://hassagent.readthedocs.io/en/latest/mediaplayer/mediaplayer-usage-and-examples/
+    * [https://hassagent.readthedocs.io/en/latest/mediaplayer/mediaplayer-usage-and-examples/](https://hassagent.readthedocs.io/en/latest/mediaplayer/mediaplayer-usage-and-examples/)
 
 * New command: WebView
   * Can be used to show any webpage, without having to launch a full-fledged browser
@@ -55,7 +55,7 @@ A 'heads up': because of the summer months, I'll be either busy at work filling 
 	* If you resize the webview, it'll store the new size as its default
   * Configurable through the new Configuration -> Tray Icon page
   
-* New documentation: https://hassagent.readthedocs.io
+* New documentation: [https://hassagent.readthedocs.io](https://hassagent.readthedocs.io)
   * GitHub's wiki pages won't be updated anymore and will be removed soon
   * Missing docs, or have additions yourself? Let me know :)
   
@@ -82,7 +82,7 @@ A 'heads up': because of the summer months, I'll be either busy at work filling 
     * Note: this translation has mostly automated translations, results may vary  
   * If you're proficient in German or Spanish, please improve!
   * There are a bunch of languages waiting to get some more love, like French and Polish
-  * You can dive right in (it's online, easy, and no coding required): https://poeditor.com/join/project/R7HIVG0wie
+  * You can dive right in (it's online, easy, and no coding required): [https://poeditor.com/join/project/R7HIVG0wie](https://poeditor.com/join/project/R7HIVG0wie)
 
 * The devicename is now validated and sanitized [#53] (thanks @mdrichardson)
   * Home Assistant rejects your device if it contains certain special characters
