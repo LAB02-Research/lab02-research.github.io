@@ -2,7 +2,7 @@
 layout: post
 title: Localized Commands
 subtitle: Why, Microsoft?
-thumbnail-img: /assets/img/localization_128px.png
+thumbnail-img: /assets/img/localization_128.png
 tags: [localization,windows,microsoft,hass.agent,home assistant,hass,domotica,automation,csharp]
 ---
 
@@ -23,7 +23,8 @@ And you'd be right! Unless the user has a non-English UI language.. And in case 
 So we have to first determine the language specific variant of the `Everyone` group, which thankfully can be done relatively easy in C#:
 
 ```C#
-var localizedEveryoneGroupName = Principal.FindByIdentity(new PrincipalContext(ContextType.Machine), IdentityType.Sid, "S-1-1-0")?.Name ?? "Everyone";
+var localizedEveryoneGroupName = Principal.FindByIdentity(new PrincipalContext(ContextType.Machine), 
+   IdentityType.Sid, "S-1-1-0")?.Name ?? "Everyone";
 ```
 
 We're defaulting to `Everyone` if the command fails, but it shouldn't. `S-1-1-0` is the SID of the `Everyone` group.
