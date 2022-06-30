@@ -14,4 +14,8 @@ If you enjoy our work, consider sponsoring so we can invest in more hardware for
 
 <iframe id='kofiframe' src='https://ko-fi.com/lab02research/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='lab02research'></iframe>
 
+<br/>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lab02research)
+
+<br/>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=5YL6UP94AQSPC)
