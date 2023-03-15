@@ -28,7 +28,7 @@ Click [here](https://github.com/LAB02-Research/DeepL-Translator/releases/latest/
 
 *And now for something completely different!*
 
-[DeepL](https://www.deepl.com/pro-api) provides AI/ML translation services. They differ from for example Google Translate in that they don't translate *as-is*, but also contextually. I've been using it a lot for translating from and into French, and it's truly amazing what they can do. Besides plain text, it's also possible to translate entire documents, preserving the layout in the process.
+[DeepL](https://www.deepl.com/pro-api) provides AI/ML translation services. They differ from for example Google Translate in that they don't translate *as-is*, but also contextually. I've been using it a lot for translating from and into French, and it's truly amazing what they can do. Besides plain text, it's also possible to translate entire documents, while preserving their layout.
 
 <a href="https://www.deepl.com/pro-api"><img src="/assets/img/deepl_full_logo.png" alt="DeepL logo" title="DeepL" class="center" height="128" /></a>
 
@@ -42,11 +42,9 @@ So, since there isn't an API client available, I built one that I'd want to use.
 
 ### Functionality
 
-Summary of the core functions:
+* **Text**: translate written text, or just drag and drop a .txt file.
 
-* **Text**: translate text, written or just drag a .txt file to the text field.
-
-* **Documents**: translate a variaty of documents. Has lots of checks to make sure your document will be accepted by DeepL.
+* **Documents**: translate a variaty of document types. Supports drag and drop, and has lots of checks to make sure your document will be accepted by DeepL.
 
 * **Webpages**: translate any webpage. Extracts the relevant text to reduce the amount of characters and increase the readability.
 
@@ -58,11 +56,11 @@ Summary of the core functions:
 
 * **Cost management**: tells you how much your text or document will cost in terms of both characters and hard cash. Shows the current state of your subscription.
 
-* **UI**: full fledged interface, built to be easy and intuitive to use with as little clicks/keys as possible. Resides in the system tray.
+* **UI**: full fledged interface, built to be easy and intuitive to use with as little input as possible. Resides in the system tray.
 
 * **Print or save**: print your translations, or store them locally for later reference.
 
-* **Updater**: contains an automatic updater that'll keep your version up-to-date without any hassle.
+* **Updater**: contains an automatic updater that'll keep your translator up-to-date in the background.
 
 ----
 
