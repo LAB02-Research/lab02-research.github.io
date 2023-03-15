@@ -10,7 +10,7 @@ tags: [Home Assistant,HASS,HASS.Agent,companion,app,domotica,automation,Windows]
 
 HASS.Agent is a Windows-based client (*companion*) application for [Home Assistant](https://www.home-assistant.io), developed in .NET 6.
 
-Click [here](https://github.com/LAB02-Research/HASS.Agent/releases/latest/download/HASS.Agent.Installer.exe) to download the latest installer.
+Click [here](https://github.com/LAB02-Research/HASS.Agent/releases/latest/download/HASS.Agent.Installer.exe) to download the latest installer, or go to the [GitHub repo](https://github.com/LAB02-Research/HASS.Agent) for more up-to-date info.
 
 ### Contents
 
