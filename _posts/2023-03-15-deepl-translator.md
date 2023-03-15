@@ -6,7 +6,18 @@ thumbnail-img: /assets/img/localization_128.png
 tags: [new,deepl,translator,translation,ml,ai,language,translate,csharp]
 ---
 
-And now for something completely different!
+### Contents
+
+ * [Introduction](#Introduction)
+ * [Functionality](#functionality)
+ * [Screenshots](#screenshots)
+ * [Credits and Licensing](#credits-and-licensing)
+
+----
+
+### Introduction
+
+*And now for something completely different!*
 
 [DeepL](https://deepl.com) provides AI/ML translation services. They differ from for example Google Translate in that they don't translate *as-is*, but also contextually. I've been using it a lot for translating from and into French, and it's truly amazing what they can do. Besides plain text, it's also possible to translate entire documents, preserving the layout in the process.
 
@@ -97,6 +108,16 @@ Hides in your system tray, next to the clock:
 ![image](https://user-images.githubusercontent.com/81011038/224070094-6a396395-7d95-4b44-9246-341cd76d0d38.png)
 
 ----
+
+### Credits and Licensing
+
+Thanks to [DeepL](https://deepl.com) for providing such a great translation service!
+
+And a big thank you to all other packages:
+
+[ByteSize](https://github.com/omar/ByteSize), [DeepL.net](https://github.com/DeepLcom/deepl-dotnet), [Microsoft.Web.WebView2](https://learn.microsoft.com/en-us/microsoft-edge/webview2/), [Newtonsoft.Json](https://www.newtonsoft.com/json), [HotkeyListener](https://github.com/Willy-Kimura/HotkeyListener) (and [@ruffk](https://github.com/ruffk)'s [core version](https://github.com/ruffk/HotkeyListener)), [Serilog](https://github.com/serilog/serilog), [SmartReader](https://github.com/strumenta/SmartReader), [Syncfusion](https://www.syncfusion.com).
+
+Please consult their individual licensing if you plan to use any of their code.
 
 DeepL Translator is released under the [MIT license](https://opensource.org/licenses/MIT).
 
