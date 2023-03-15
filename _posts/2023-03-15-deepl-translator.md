@@ -10,11 +10,17 @@ tags: [new,deepl,translator,translation,ml,ai,language,translate,csharp]
 
 ### Content
 
- * [Introduction](#Introduction)
  * [Download](#Download)
+ * [Introduction](#Introduction)
  * [Functionality](#functionality)
  * [Screenshots](#screenshots)
  * [Credits and Licensing](#credits-and-licensing)
+
+----
+
+### Download
+
+Click [here](https://github.com/LAB02-Research/DeepL-Translator/releases/latest/download/DeepL.Translator.Installer.exe) to download the latest installer, or visit the [GitHub repo](https://github.com/LAB02-Research/DeepL-Translator).
 
 ----
 
@@ -31,12 +37,6 @@ DeepL offers a Windows app for their translation services, but that client doesn
 So, since there isn't an API client available, I built one that I'd want to use. It even has a feature that DeepL doesn't yet provide: **translating webpages**! It uses Firefox's *reading mode* engine which not only makes it easier for you to read the translation, but also reduces the amount of characters.
 
 **Note: regardless of how it may seem, I'm not affiliated with DeepL in any way. I did not get a dime for writing this.**
-
-----
-
-### Download
-
-Click [here](https://github.com/LAB02-Research/DeepL-Translator/releases/latest/download/DeepL.Translator.Installer.exe) to download the latest installer, or visit the [GitHub repo](https://github.com/LAB02-Research/DeepL-Translator).
 
 ----
 
