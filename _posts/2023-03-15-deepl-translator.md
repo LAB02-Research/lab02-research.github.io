@@ -22,9 +22,9 @@ tags: [new,deepl,translator,translation,ml,ai,language,translate,csharp]
 
 *And now for something completely different!*
 
-[DeepL](https://deepl.com) provides AI/ML translation services. They differ from for example Google Translate in that they don't translate *as-is*, but also contextually. I've been using it a lot for translating from and into French, and it's truly amazing what they can do. Besides plain text, it's also possible to translate entire documents, preserving the layout in the process.
+[DeepL](https://www.deepl.com/pro-api) provides AI/ML translation services. They differ from for example Google Translate in that they don't translate *as-is*, but also contextually. I've been using it a lot for translating from and into French, and it's truly amazing what they can do. Besides plain text, it's also possible to translate entire documents, preserving the layout in the process.
 
-<a href="https://www.deepl.com"><img src="/assets/img/deepl_full_logo.png" alt="DeepL logo" title="DeepL" class="center" height="128" /></a>
+<a href="https://www.deepl.com/pro-api"><img src="/assets/img/deepl_full_logo.png" alt="DeepL logo" title="DeepL" class="center" height="128" /></a>
 
 DeepL offers a Windows app for their translation services, but that client doesn't support the API, only regular subscriptions. Using the API can be more cost efficient for both the free and pro subscriptions: the free subscription offers 500.000 characters per month, which can be used for both documents and text. The pro subscription charges per character, instead of having to pay a set price monthly regardless of usage.
 
@@ -118,7 +118,7 @@ Hides in your system tray, next to the clock:
 
 ### Credits and Licensing
 
-Thanks to [DeepL](https://deepl.com) for providing such a great translation service!
+Thanks to [DeepL](https://www.deepl.com/pro-api) for providing such a great translation service!
 
 And a big thank you to all other packages:
 
