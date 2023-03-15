@@ -2,7 +2,7 @@
 layout: post
 title: DeepL Translator
 subtitle: Windows GUI client for the DeepL translation API, both free and pro. Supports text, documents and webpages.
-thumbnail-img: /assets/img/localization_128.png
+thumbnail-img: /assets/img/deepl_128.png
 tags: [new,deepl,translator,translation,ml,ai,language,translate,csharp]
 ---
 
@@ -24,7 +24,7 @@ tags: [new,deepl,translator,translation,ml,ai,language,translate,csharp]
 
 [DeepL](https://deepl.com) provides AI/ML translation services. They differ from for example Google Translate in that they don't translate *as-is*, but also contextually. I've been using it a lot for translating from and into French, and it's truly amazing what they can do. Besides plain text, it's also possible to translate entire documents, preserving the layout in the process.
 
-<a href="https://github.com/LAB02-Research/DeepL-Translator/"><img src="https://github.com/LAB02-Research/DeepL-Translator/raw/main/images/logo_notext.png" alt="DeepL logo" title="DeepL" class="center" height="128" /></a>
+<a href="https://www.deepl.com"><img src="/assets/img/deepl_full_logo.png" alt="DeepL logo" title="DeepL" class="center" height="128" /></a>
 
 DeepL offers a Windows app for their translation services, but that client doesn't support the API, only regular subscriptions. Using the API can be more cost efficient for both the free and pro subscriptions: the free subscription offers 500.000 characters per month, which can be used for both documents and text. The pro subscription charges per character, instead of having to pay a set price monthly regardless of usage.
 
