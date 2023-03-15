@@ -28,8 +28,6 @@ Click [here](https://github.com/LAB02-Research/DeepL-Translator/releases/latest/
 
 ### Introduction
 
-*And now for something completely different!*
-
 [DeepL](https://www.deepl.com/pro-api) provides AI/ML translation services. They differ from for example Google Translate in that they don't translate *as-is*, but also contextually. I've been using it a lot for translating from and into French, and it's truly amazing what they can do. Besides plain text, it's also possible to translate entire documents, preserving the layout in the process.
 
 <a href="https://www.deepl.com/pro-api"><img src="/assets/img/deepl_full_logo.png" alt="DeepL logo" title="DeepL" class="center" height="128" /></a>
@@ -38,7 +36,7 @@ DeepL offers a Windows app for their translation services, but that client doesn
 
 So, since there isn't an API client available, I built one that I'd want to use. It even has a feature that DeepL doesn't yet provide: **translating webpages**! It uses Firefox's *reading mode* engine which not only makes it easier for you to read the translation, but also reduces the amount of characters.
 
-**Note: regardless of how it may seem, I'm not affiliated with DeepL in any way. I did not get a dime for writing this.**
+**Note: regardless of how it may seem, LAB02 Research is not affiliated with DeepL in any way, and did not get a dime for writing this.**
 
 ----
 
