@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title: DeepL Translator
+cover-img: /assets/img/localization_128.png
 subtitle: Windows GUI client for the DeepL translation API, both free and pro. Supports text, documents and webpages.
-thumbnail-img: /assets/img/localization_128.png
+gh-repo: LAB02-Research/DeepL-Translator
+gh-badge: [star]
 tags: [new,deepl,translator,translation,ml,ai,language,translate,csharp]
 ---
 

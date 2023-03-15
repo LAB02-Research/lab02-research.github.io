@@ -13,6 +13,10 @@ navbar-links:
     - Download: "https://github.com/LAB02-Research/HASS.Agent/releases/latest/"
     - Docs: "https://hassagent.readthedocs.io/en/latest/"
     - Source: "https://github.com/LAB02-Research/HASS.Agent"
+  DeepL Translator:
+    - About: "deepltranslator"
+    - Download: "https://github.com/LAB02-Research/DeepL-Translator/releases/latest/"
+    - Source: "https://github.com/LAB02-Research/DeepL-Translator"
   About Us: "aboutus"
   GitHub: "https://github.com/LAB02-Research/"
 
@@ -46,7 +50,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
 post_search: true
-keywords: "home,assistant,windows,companion,app,hass,agent,domotica,tech,development,lab02,research,automation"
+keywords: "home,assistant,windows,companion,app,hass,agent,domotica,tech,development,lab02,research,automation,deepl,translator,translation,ml,ai,language,translate"
 
 # --- Colours / background image --- #
 
