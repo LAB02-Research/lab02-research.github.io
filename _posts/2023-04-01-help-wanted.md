@@ -30,7 +30,7 @@ For more info, consult the development documentation:
 
 Another aspect that can *really* use your help, are the [GitHub tickets](https://github.com/LAB02-Research/HASS.Agent/issues). You can be granted rights if you want to, so you'll be able to close/modify tickets. The users would really appreciate it!
 
-You can contact me through mail (![image](https://user-images.githubusercontent.com/81011038/203284031-5c07e7e9-83b8-4b55-9c3f-f9659a117789.png)), in the dev channel of the [Discord](https://discord.gg/nMvqzwrVBU) channel or by creating a ticket in the staging repo.
+You can contact me through mail (![image](https://user-images.githubusercontent.com/81011038/203284031-5c07e7e9-83b8-4b55-9c3f-f9659a117789.png)), in the dev channel of our [Discord](https://discord.gg/nMvqzwrVBU) server or by creating a ticket in the staging repo.
 
 Thanks, and a big thanks to all users for (hopefully) understanding! It's a great project and I enjoyed interacting with all of you, sharing ideas and tips, and I'm looking forward to the moment we can pick that up again :)
 
