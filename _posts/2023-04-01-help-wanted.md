@@ -2,7 +2,7 @@
 layout: post
 title: Help Wanted
 subtitle: Help wanted (and needed!) for HASS.Agent.
-thumbnail-img: /assets/img/help-128.png
+thumbnail-img: /assets/img/help_128.png
 tags: [development,developer,help,hass.agent,home assistant,hass,domotica,automation,csharp]
 ---
 
